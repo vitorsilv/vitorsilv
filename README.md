@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**vitorsilv/vitorsilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+  <img aling="center" src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/artLong.png?raw=true"/>
+  <table>  
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsilv&hide=html&layout=compact&theme=buefy"</td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vitorsilv&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center> 
 
-Here are some ideas to get you started:
+### Olá! :smiley:
+Sou Desenvolvedor de Software focado em backend e estudando frontend, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board:, às vezes publico algo no [Medium](https://medium.com/@vitorsilv).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No tempo livre gosto de tocar os meus instrumentos :guitar:, jogar :video_game: e principalmente escutar musica :notes:!
+##
+
+Quero ajudar pessoas de origem periférica a entrar na área de tecnologia e por isso tenho um projeto no IGTV desmistificando a área de T.I. com uma linguagem não elitizada para que todas as pessoas independente de sua formação me entenda.
+
+##
+
+##### Onde me encontrar? :mag:
+
+*Redes profissionais - @vitorsilv*
+
+[<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/linkedin.png?raw=true" width="16"/>  - LinkedIn](https://www.linkedin.com/in/vitorsilv/)
+
+[<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/medium.png?raw=true" width="16"/>  - Medium](https://medium.com/@vitorsilv)
+
+[<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/gmail.png?raw=true" width="16"/>  - Email](mailto:vitor.procont@gmail.com)
+
+*Redes pessoais - @virtohoho*
+
+[<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/instagram.png?raw=true" width="16"/>  - Instagram](http://instagram.com/virtohoho)
+
+[<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/twitter.png?raw=true" width="16"/>  - Twitter](https://twitter.com/virtohoho)
