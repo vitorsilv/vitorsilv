@@ -25,6 +25,5 @@ Quero ajudar pessoas de origem periférica a entrar na área de tecnologia e por
 
 [<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/linkedin.png?raw=true" width="16"/>  - LinkedIn](https://www.linkedin.com/in/vitorsilv/)
 
-[<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/medium.png?raw=true" width="16"/>  - Medium](https://medium.com/@vitorsilv)
 
 [<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/gmail.png?raw=true" width="16"/>  - Email](mailto:vitor.procont@gmail.com)
