@@ -10,7 +10,7 @@
 </center> 
 
 ### Olá! :smiley:
-Sou Desenvolvedor de Software focado em backend e estudando frontend, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board:, às vezes publico algo no [Medium](https://medium.com/@vitorsilv).
+Sou Desenvolvedor de Software focado em backend e estudando frontend, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board:
 
 No tempo livre gosto de tocar os meus instrumentos :guitar:, jogar :video_game: e principalmente escutar musica :notes:!
 ##
