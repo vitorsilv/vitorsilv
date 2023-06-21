@@ -1,5 +1,5 @@
 ### Olá! :smiley:
-Sou Desenvolvedor de Software focado em backend e estudando frontend, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board:
+Sou Desenvolvedor de Software focado em backend e me interesso por infra também, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board: e Pós Graduado em Gestão e Liderança em Tecnologia :mortar_board:, atualmanete trabalhando com Java ☕ como Engenheiro de Software na @elo7
 
 No tempo livre gosto de tocar os meus instrumentos :guitar:, jogar :video_game: e principalmente escutar musica :notes:!
 ##
@@ -13,6 +13,5 @@ Quero ajudar pessoas de origem periférica a entrar na área de tecnologia e por
 *Redes profissionais - @vitorsilv*
 
 [<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/linkedin.png?raw=true" width="16"/>  - LinkedIn](https://www.linkedin.com/in/vitorsilv/)
-
 
 [<img src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/Icones/gmail.png?raw=true" width="16"/>  - Email](mailto:vitor.procont@gmail.com)
