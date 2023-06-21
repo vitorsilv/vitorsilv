@@ -1,10 +1,10 @@
 ### Olá! :smiley:
-Sou Desenvolvedor de Software focado em backend e me interesso por infra também, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board: e Pós Graduado em Gestão e Liderança em Tecnologia :mortar_board:, atualmanete trabalhando com Java ☕ como Engenheiro de Software na [@elo7](https://github.com/elo7)
+Sou Desenvolvedor de Software focado em backend e me interesso por infra também, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board: e Pós Graduado em Gestão e Liderança em Tecnologia :mortar_board:, atualmanete trabalhando com Java ☕ como Engenheiro de Software na [Elo7](https://github.com/elo7)
 
 No tempo livre gosto de tocar os meus instrumentos :guitar:, jogar :video_game: e principalmente escutar musica :notes:!
 ##
 
-Quero ajudar pessoas de origem periférica a entrar na área de tecnologia e por isso faço parte do coletivo [@quebradev](https://github.com/quebradev). O QuebraDev tem um podcast de origem periférica que surgiu com o objetivo de representar quem é de quebrada na área de tecnologia, além de tentar trazer para o cerne dessa profissão para quem tem interesse em ingressar.
+Quero ajudar pessoas de origem periférica a entrar na área de tecnologia e por isso faço parte do coletivo [Quebradev](https://github.com/quebradev). O QuebraDev tem um podcast de origem periférica que surgiu com o objetivo de representar quem é de quebrada na área de tecnologia, além de tentar trazer para o cerne dessa profissão para quem tem interesse em ingressar.
 
 ##
 
