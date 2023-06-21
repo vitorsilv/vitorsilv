@@ -15,7 +15,7 @@ Sou Desenvolvedor de Software focado em backend e estudando frontend, graduado e
 No tempo livre gosto de tocar os meus instrumentos :guitar:, jogar :video_game: e principalmente escutar musica :notes:!
 ##
 
-Quero ajudar pessoas de origem periférica a entrar na área de tecnologia e por isso tenho um projeto no IGTV desmistificando a área de T.I. com uma linguagem não elitizada para que todas as pessoas independente de sua formação me entenda.
+Quero ajudar pessoas de origem periférica a entrar na área de tecnologia e por isso faço parte do coletivo @quebradev. O QuebraDev tem um podcast de origem periférica que surgiu com o objetivo de representar quem é de quebrada na área de tecnologia, além de tentar trazer para o cerne dessa profissão para quem tem interesse em ingressar.
 
 ##
 
