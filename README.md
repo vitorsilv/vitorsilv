@@ -1,14 +1,3 @@
-
-<center>
-  <img aling="center" src="https://github.com/vitorsilv/vitorsilv/blob/main/README_Files/artLong.png?raw=true"/>
-  <table>  
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsilv&hide=html&layout=compact&theme=buefy"</td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vitorsilv&theme=buefy"/></td>
-    </tr>   
-  </table>
-</center> 
-
 ### Olá! :smiley:
 Sou Desenvolvedor de Software focado em backend e estudando frontend, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board:
 
