@@ -1,5 +1,5 @@
 ### Olá! :smiley:
-Sou Desenvolvedor de Software focado em backend e me interesso por infra também, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board: e Pós Graduado em Gestão e Liderança em Tecnologia :mortar_board:, atualmanete trabalhando com Java ☕ como Engenheiro de Software Backend na [Z1](https://github.com/z1app)
+Sou Desenvolvedor de Software focado em backend e me interesso por infra também, graduado em Análise e Desenvolvimento de Sistemas pela [BandTec](https://github.com/BandTec) :mortar_board: e Pós Graduado em Gestão e Liderança em Tecnologia :mortar_board:, atualmanete trabalhando com TypeSrcipt como Engenheiro de Software Backend na [Z1](https://github.com/z1app)
 
 No tempo livre gosto de tocar os meus instrumentos :guitar:, jogar :video_game: e principalmente escutar musica :notes:!
 ##
